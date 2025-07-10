@@ -14,14 +14,21 @@ Este repositorio contiene un listado organizado de mis proyectos personales. Cad
 
 ---
 
-### 01. 💧 Sistema de Riego Automático
+### 01. 💡 Control de Brillo de LED con Potenciómetro (señales analogicas) 
+- 📅 Fecha: Julio 2025
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas)
+- 🛠️ Tecnologías: Arduino, Potenciometro, Leds, Resistencia
+  
+---
+
+### 02. 💧 Sistema de Riego Automático
 - 📅 Fecha: Próximamente
 - 🔗 [En construcción]
 - 🛠️ Tecnologías: Arduino, Sensor de humedad FC-28, Relevador
 
 ---
 
-### 02. 🚨 Alarma con Sensor de Movimiento
+### 03. 🚨 Alarma con Sensor de Movimiento
 - 📅 Fecha: [A definir]
 - 🔗 [En construcción]
 - 🛠️ Tecnologías: PIR, Buzzer, Arduino
