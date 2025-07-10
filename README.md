@@ -18,13 +18,15 @@ Este repositorio contiene un listado organizado de mis proyectos personales. Cad
 - 📅 Fecha: Julio 2025
 - 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas)
 - 🛠️ Tecnologías: Arduino, Potenciometro, Leds, Resistencia
+- 📄 Descripción: Potenciometro controla la intensidad de un led mediante señales analogicas.
   
 ---
 
-### 02. 💧 Sistema de Riego Automático
-- 📅 Fecha: Próximamente
-- 🔗 [En construcción]
-- 🛠️ Tecnologías: Arduino, Sensor de humedad FC-28, Relevador
+### 02. 🚦 Semáforo inteligente con sensor de luz
+- 📅 Fecha: Julio 2025
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/semaforo-y-fotorresistencia)
+- 🛠️ Tecnologías: Arduino, Fotorresistencia LDR, Leds, Resistencias
+- 📄 Descripción: Semáforo entra en modo "reposo" cuando es de noche (luz amarilla intermitente).
 
 ---
 
