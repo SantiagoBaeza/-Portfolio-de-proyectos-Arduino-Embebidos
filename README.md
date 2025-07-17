@@ -30,7 +30,15 @@ Este repositorio contiene un listado organizado de mis proyectos personales. Cad
 
 ---
 
-### 03. 🚨 Alarma con Sensor de Movimiento
+### 03. 🌱 Sistema de Riego Automatizado con LCD y Sensor de Humedad
+- 📅 Fecha: Julio 2025
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Riego-Automatizado)
+- 🛠️ Tecnologías: Arduino, Sensor de humedad, Pantalla LCD 16x2, Rele, Transistor NPN
+- 📄 Descripción: Sensor enciende una bomba de agua cuando el suelo esta seco.
+
+---
+
+### 04. 🚨 Alarma con Sensor de Movimiento
 - 📅 Fecha: [A definir]
 - 🔗 [En construcción]
 - 🛠️ Tecnologías: PIR, Buzzer, Arduino
