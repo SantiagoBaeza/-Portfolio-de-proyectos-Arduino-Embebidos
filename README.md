@@ -5,7 +5,7 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
 
 ---
 
-## 📘 Índice de Proyectos
+## Índice de Proyectos
 
 ### 00. Cerradura Electrónica con Teclado y LCD
 - 📅 Fecha: Julio 2025
