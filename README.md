@@ -43,3 +43,7 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
 - 📅 Fecha: [A definir]
 - 🔗 [En construcción]
 - 🛠️ Tecnologías: PIR, Buzzer, Arduino
+
+---
+
+> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
