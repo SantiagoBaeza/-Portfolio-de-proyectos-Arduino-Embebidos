@@ -44,9 +44,9 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 ---
 
 ### 04. Alarma con Sensor de Movimiento
-- 📅 Fecha: [A definir]  
-- 🔗 [En construcción]  
-- 🛠️ Tecnologías: Arduino, PIR, Buzzer  
+- 📅 Fecha: ...
+- 🔗 [En construcción](enlace_aca)
+- 🛠️ Tecnologías: ... 
 - 📄 Descripción: ...
 
 ---
